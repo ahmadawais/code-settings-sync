@@ -164,7 +164,7 @@
     "tslint": "^5.12.1",
     "tslint-plugin-prettier": "^2.0.1",
     "typescript": "^3.3.2",
-    "vscode": "^1.1.26",
+    "vscode": "^1.1.30",
     "webpack": "^4.29.3",
     "webpack-cli": "^3.2.3"
   },
